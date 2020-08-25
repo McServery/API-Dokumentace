@@ -6,9 +6,9 @@
 
 ## Jak api použít? 
 ### Získání klíče
-Pro pužívání api je nutné vygenerovat api key který vám zajistí přístup k informacím pro server se kterým je klíč navázaný. Klíč vygenerujete po přihlášení k účtu který je spojený s daným serverem. 
+Pro pužívání api je nutné vygenerovat api key který vám zajistí přístup k informacím pro server se kterým je klíč navázaný. Klíč vygenerujete po přihlášení k účtu který je spojený s daným serverem. Je nutné být přihlášený na http://mcservery.eu/login.php
 
-Pro vygenerování klíče si zobrazte seznam vašich serverů
+Pro vygenerování klíče si zobrazte seznam vašich serverů 
 
 ![api1](https://github.com/McServery/API-Dokumentace/blob/master/img/api1.JPG)
 
