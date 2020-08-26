@@ -57,7 +57,7 @@ Zkopírujte svůj api klíč
 'code'    => 1,
 'message' => 'Je vyžadován API key, dokumentaci naleznete na: https://github.com/McServery/API-Dokumentace'
 `
-- Není zadán api key vašeho serveru `?api_key=KLÍČ`
+- Není zadán žádný api key `?api_key=KLÍČ`
 
 `
 'code'    => 2,
