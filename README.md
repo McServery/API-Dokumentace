@@ -1,9 +1,9 @@
 # Dokumentace k API
 ### Co api umí? 
-- Zobrazení všech veřejně dostupných informací o serveru
-- Seznam hráčů hlasujících pro server za posledních 30 dní
-- Aktuální počet hlasů
-- Status a další informace serveru (ip adresa, port, motd, verze, mód, hráči/sloty)
+- [Zobrazení všech veřejně dostupných informací o serveru](#informace-o-serveru)
+- [Seznam hráčů hlasujících pro server za posledních 30 dní](#hlasující-hráči-za-posledních-30-dní)
+- [Aktuální počet hlasů](#počet-hlasů)
+- [Status a další informace serveru (ip adresa, port, motd, verze, mód, hráči/sloty)](#počet-hlasů)
 
 ## Jak api použít? 
 ### Získání klíče
