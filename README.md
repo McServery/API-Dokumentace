@@ -3,6 +3,7 @@
 - Zobrazení všech veřejně dostupných informací o serveru
 - Seznam hráčů hlasujících pro server za posledních 30 dní
 - Aktuální počet hlasů
+- Status a další informace serveru (ip adresa, port, motd, verze, mód, hráči/sloty)
 
 ## Jak api použít? 
 ### Získání klíče
@@ -48,3 +49,26 @@ Zkopírujte svůj api klíč
 `
 { "Votes": "1" }
 `
+### Status
+> GET http://api.mcservery.eu/status/?api_key=vášklíč
+
+## Řešení chyb
+`
+'code'    => 1,
+'message' => 'Je vyžadován API key, dokumentaci naleznete na: https://github.com/McServery/API-Dokumentace'
+`
+- Není zadán api key vašeho serveru `?api_key=KLÍČ`
+
+`
+'code'    => 2,
+'message' => 'API key je neplatný'
+`
+- Neexistující klíč
+Zkontrolujte zda je vložen správný klíč bez překlepů
+
+`
+'code'    => 3,
+'message' => 'Server offline'
+`
+- Zkontrolujte zda-li je u serveru vložená správná ip adresa a port
+- Zapněte svůj server.. 
