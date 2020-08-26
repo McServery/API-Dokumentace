@@ -72,3 +72,6 @@ Zkontrolujte zda je vložen správný klíč bez překlepů
 `
 - Zkontrolujte zda-li je u serveru vložená správná ip adresa a port
 - Zapněte svůj server.. 
+
+
+Pokud máte nějaký problém nebo vám něco u api chybý stačí otevřít [issue](https://github.com/McServery/API-Dokumentace/issues/new) nebo napsat na mail admin@mcservery.eu
