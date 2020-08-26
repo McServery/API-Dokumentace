@@ -1,4 +1,4 @@
-# Dokumentace k API
+# Dokumentace k API - [api.mcservery.eu](http://api.mcservery.eu)
 ### Co api umí? 
 - [Zobrazení všech veřejně dostupných informací o serveru](#informace-o-serveru)
 - [Seznam hráčů hlasujících pro server za posledních 30 dní](#hlasující-hráči-za-posledních-30-dní)
